@@ -1,0 +1,6 @@
+{
+	"require": {
+		"codeigniter/framework": "3.0.0",
+		"phpunit/phpunit": "4.8.*@dev"
+	}
+}
